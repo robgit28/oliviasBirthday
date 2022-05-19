@@ -51,7 +51,8 @@ body {
 }
 
 .rainbow-text {
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    /*background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);*/
+    background-image: linear-gradient(to left, rgb(226, 174, 226), rgb(235, 146, 190), rgb(219, 106, 157), rgb(209, 76, 173), rgb(235, 37, 215), rgb(243, 25, 130), rgb(246, 4, 186));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
